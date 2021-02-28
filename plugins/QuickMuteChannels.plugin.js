@@ -1,5 +1,5 @@
 /**
-* @name QuickMuteChannels
+* @name QuickMuteChannels 
 * @displayName QuickMuteChannels
 * @authorId 415849376598982656
 * @invite gvA2ree
