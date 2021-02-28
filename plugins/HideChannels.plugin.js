@@ -1,5 +1,5 @@
 /**
- * @name HideChannels
+ * @name HideChannels 
  * @displayName HideChannels
  * @authorId 405126960902176768
  * @website https://github.com/CapnKitten
