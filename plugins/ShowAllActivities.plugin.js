@@ -1,5 +1,5 @@
 /**
-* @name ShowAllActivities
+* @name ShowAllActivities 
 * @displayName ShowAllActivities
 * @authorId 415849376598982656
 * @invite gvA2ree
