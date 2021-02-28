@@ -1,5 +1,5 @@
 /**
- * @name MemberCount
+ * @name MemberCount 
  * @author Arashiryuu
  * @version 2.2.0
  * @description Displays a server's member-count at the top of the member-list, can be styled with the #MemberCount selector.
