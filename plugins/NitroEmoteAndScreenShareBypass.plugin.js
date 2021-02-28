@@ -4,7 +4,7 @@ class NitroEmoteAndScreenShareBypass {
         return "NitroEmoteAndScreenShareBypass";
     }
     getDescription() {
-        return "Send nitro emotes (lame bypass) and enable high quality screen sharing without Nitro";
+        return "Send nitro emotes (lame bypass) and enable high quality screen-sharing without Nitro";
     }
     getVersion() {
         return "3.3";
