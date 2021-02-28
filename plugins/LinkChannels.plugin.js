@@ -1,5 +1,5 @@
 /**
- * @name LinkChannels
+ * @name LinkChannels 
  * @displayName LinkChannels
  * @invite gv2ree
  * @authorId 415849376598982656
