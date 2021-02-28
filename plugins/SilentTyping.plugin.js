@@ -1,5 +1,5 @@
 /**
- * @name SilentTyping
+ * @name SilentTyping 
  * @source https://github.com/slow/better-discord-plugins/blob/master/SilentTyping/SilentTyping.plugin.js
  * @updateUrl https://raw.githubusercontent.com/slow/better-discord-plugins/master/SilentTyping/SilentTyping.plugin.js
  * @website https://github.com/slow/better-discord-plugins/tree/master/SilentTyping/SilentTyping.plugin.js
