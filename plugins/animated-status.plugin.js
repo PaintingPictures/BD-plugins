@@ -323,7 +323,7 @@ const Status = {
 	}
 };
 
-// Used to easily style elements like the 'native' discord ones
+// Used to easily style Elements like the 'native' discord ones
 const GUI = {
 	newInput: (text = "") => {
 		let input = document.createElement("input");
