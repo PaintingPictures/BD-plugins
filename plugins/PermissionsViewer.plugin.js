@@ -1,5 +1,5 @@
 /**
- * @name PermissionsViewer
+ * @name PermissionsViewer 
  * @version 0.1.16
  * @authorLink https://twitter.com/IAmZerebos
  * @donate https://paypal.me/ZackRauen
