@@ -1,5 +1,5 @@
 /**
- * @name BlurNSFW
+ * @name BlurNSFW 
  * @version 0.2.4
  * @authorLink https://twitter.com/IAmZerebos
  * @donate https://paypal.me/ZackRauen
