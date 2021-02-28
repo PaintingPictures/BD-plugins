@@ -1,5 +1,5 @@
 /**
- * @name AutoPlayGifs 
+ * @name AutoPlayGifs
  * @version 0.1.3
  * @authorLink https://twitter.com/IAmZerebos
  * @donate https://paypal.me/ZackRauen
